@@ -15,10 +15,6 @@
 - Web 后台可运营：权限分级、公告推送、报表导出、数据备份
 - 可二次开发：代码结构清晰，模块化 Listener 便于扩平台
 - 可接全系列pc28、加拿大28、牛牛、彩票开奖类游戏，写一下规则就行
- ![群聊](qiantai.png)
- ![后台1](houtai1.png)
- ![后台2](houtai2.png)
- ![后台3](houtai3.png)
 ---
 
 ## 功能总览
@@ -110,22 +106,16 @@ npm run dev
 ---
 
 ## 演示截图
-
-为提升 GitHub 转化，建议你在这里放 4-6 张真实截图：
-
 1. 聊天端下单与回复
 2. 后台首页概览
 3. 投注/开奖管理页
 4. 报表与风险预警页
 5. 多平台群推送页
 
-示例（替换为你的图片地址）：
-
-```md
-![dashboard](qinatai.png)
-![bets](houtai1.png)
-![report](houtai2.png)
-![report](houtai3.png)
+ ![群聊](qiantai.png)
+ ![后台1](houtai1.png)
+ ![后台2](houtai2.png)
+ ![后台3](houtai3.png)
 ```
 
 ---
