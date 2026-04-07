@@ -13,7 +13,10 @@
 - 全流程闭环：聊天收单 -> 自动结算 -> 风险预警 -> 后台审计
 - Web 后台可运营：权限分级、公告推送、报表导出、数据备份
 - 可二次开发：代码结构清晰，模块化 Listener 便于扩平台
-
+ ![群聊](images/qiantai.png)
+ ![后台1](images/houtai1.png)
+ ![后台2](images/houtai2.png)
+ ![后台3](images/houtai3.png)
 ---
 
 ## 功能总览
