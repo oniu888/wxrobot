@@ -115,6 +115,8 @@ npm run dev
  ![演示视频](https://www.youtube.com/embed/dyT8cE-4AeU?si=SUF6LQLpARmV_LDV)
  [![视频标题](https://youtube.com)](https://www.youtube.com/watch?v=dyT8cE-4AeU)
  https://youtu.be/dyT8cE-4AeU
+ [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
  ![群聊](qiantai.png)
  ![后台1](houtai1.png)
  ![后台2](houtai2.png)
