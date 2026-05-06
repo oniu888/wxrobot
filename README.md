@@ -111,7 +111,7 @@ npm run dev
 3. 投注/开奖管理页
 4. 报表与风险预警页
 5. 多平台群推送页
-
+https://youtu.be/dyT8cE-4AeU
  ![群聊](qiantai.png)
  ![后台1](houtai1.png)
  ![后台2](houtai2.png)
