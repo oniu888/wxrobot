@@ -111,6 +111,7 @@ npm run dev
 3. 投注/开奖管理页
 4. 报表与风险预警页
 5. 多平台群推送页
+
  [![Everything Is AWESOME](https://img.youtube.com/vi/dyT8cE-4AeU/0.jpg)](https://www.youtube.com/watch?v=dyT8cE-4AeU "Everything Is AWESOME")
  ![群聊](qiantai.png)
  ![后台1](houtai1.png)
