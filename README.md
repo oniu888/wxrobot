@@ -112,7 +112,7 @@ npm run dev
 4. 报表与风险预警页
 5. 多平台群推送页
 
- [![六合彩演示视频](https://img.youtube.com/vi/dyT8cE-4AeU/0.jpg)](https://www.youtube.com/watch?v=dyT8cE-4AeU "六合彩演示视频")
+ 演示视频：[![六合彩演示视频](https://img.youtube.com/vi/dyT8cE-4AeU/0.jpg)](https://www.youtube.com/watch?v=dyT8cE-4AeU "六合彩演示视频")
  ![群聊](qiantai.png)
  ![后台1](houtai1.png)
  ![后台2](houtai2.png)
