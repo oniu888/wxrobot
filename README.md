@@ -112,6 +112,7 @@ npm run dev
 4. 报表与风险预警页
 5. 多平台群推送页
 https://youtu.be/dyT8cE-4AeU
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dyT8cE-4AeU?si=SUF6LQLpARmV_LDV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  ![群聊](qiantai.png)
  ![后台1](houtai1.png)
  ![后台2](houtai2.png)
