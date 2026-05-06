@@ -113,6 +113,8 @@ npm run dev
 5. 多平台群推送页
 
  ![演示视频](https://www.youtube.com/embed/dyT8cE-4AeU?si=SUF6LQLpARmV_LDV)
+ [![视频标题](https://youtube.com)](https://www.youtube.com/watch?v=dyT8cE-4AeU)
+ https://youtu.be/dyT8cE-4AeU
  ![群聊](qiantai.png)
  ![后台1](houtai1.png)
  ![后台2](houtai2.png)
