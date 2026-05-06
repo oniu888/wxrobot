@@ -114,8 +114,8 @@ npm run dev
 
  ![演示视频](https://www.youtube.com/embed/dyT8cE-4AeU?si=SUF6LQLpARmV_LDV)
  [![视频标题](https://youtube.com)](https://www.youtube.com/watch?v=dyT8cE-4AeU)
- [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
-
+ [![Everything Is AWESOME](https://img.youtube.com/vi/dyT8cE-4AeU/0.jpg)](https://www.youtube.com/watch?v=dyT8cE-4AeU "Everything Is AWESOME")
+https://youtu.be/dyT8cE-4AeU
 
 
  ![群聊](qiantai.png)
